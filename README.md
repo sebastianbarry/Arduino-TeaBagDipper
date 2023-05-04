@@ -4,6 +4,8 @@ This is the code for the Tea Bag Dipper 9000 developed by Team Friendship (@seba
 
 This project is coded for the Arduino Uno.
 
+![fullBuild](/photos/fulBuild.jpeg)
+
 ## Demo:
 YouTube Video:
 [![Arduino | TEA BAG DIPPER 9000 🤖 | (NOT CLICKBAIT) | HD 1080p](https://www.youtube.com/watch?v=aLSVhoc9fjE&ab_channel=MarSweet/0.jpg)](https://www.youtube.com/watch?v=aLSVhoc9fjE&ab_channel=MarSweet)
@@ -16,6 +18,10 @@ _All parts of this kit can be found in the [Arduino Complete Starter Kit](https:
 * Motor Arduino Uno
   * 4x4 Membrane Switch
   * Micro Servo motor
+ 
+| ![teaBagDipperDisplay](/photos/teaBagDipperDisplay.jpeg) | ![teaBagDipperInput](/photos/teaBagDipperInput.jpeg) |
+:---:|:---:
+| ![kit](/photos/kit.jpeg) | |
 
 ## Software:
 When uploading the code to your Arduino Uno, please make sure to install the Arduino libraries which are being included in the project into your Arduino program.
