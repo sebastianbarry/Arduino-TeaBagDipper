@@ -2,13 +2,13 @@
 
 This is the code for the Tea Bag Dipper 9000 developed by Team Friendship (@sebastianbarry @kevinhawekotte @MatthewTeets)
 
-This project is coded for the Arduino Uno.
-
-![fullBuild](/photos/fulBuild.jpeg)
-
-## Demo:
+### Demo:
 YouTube Video:
 [![Arduino | TEA BAG DIPPER 9000 🤖 | (NOT CLICKBAIT) | HD 1080p](https://www.youtube.com/watch?v=aLSVhoc9fjE&ab_channel=MarSweet/0.jpg)](https://www.youtube.com/watch?v=aLSVhoc9fjE&ab_channel=MarSweet)
+
+_This project is coded for the Arduino Uno._
+
+![fullBuild](/photos/fulBuild.jpeg)
 
 ## Hardware: (2x Arduino Uno's)
 _All parts of this kit can be found in the [Arduino Complete Starter Kit](https://www.amazon.com/ELEGOO-Complete-Starter-Tutorial-Arduino/dp/B08J3V5WPX). However, tbis build uses 2 Arduino Uno's which the kit only supplies one of._
